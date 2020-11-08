@@ -1,5 +1,5 @@
 [package]
-name = "natoalpha"
+name = "quizkit"
 version = "0.1.0"
 authors = ["James Magahern <james@magahern.com>"]
 edition = "2018"

@@ -36,16 +36,6 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "3e2e65a1a2e43cfcb47a895c4c8b10d1f4a61097f9f254f183aee60cad9c651d"
 
 [[package]]
-name = "natoalpha"
-version = "0.1.0"
-dependencies = [
- "lazy_static",
- "maplit",
- "rand",
- "termion",
-]
-
-[[package]]
 name = "numtoa"
 version = "0.1.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -56,6 +46,16 @@ name = "ppv-lite86"
 version = "0.2.9"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "c36fa947111f5c62a733b652544dd0016a43ce89619538a8ef92724a6f501a20"
+
+[[package]]
+name = "quizkit"
+version = "0.1.0"
+dependencies = [
+ "lazy_static",
+ "maplit",
+ "rand",
+ "termion",
+]
 
 [[package]]
 name = "rand"
