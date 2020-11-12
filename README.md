@@ -1,6 +1,6 @@
 # quizkit
 
-Quizkit is a small library for writing CLI-based quizzes. Good for spacial repetition. 
+Quizkit is a small library for writing CLI-based quizzes. Good for spaced repetition. 
 
 
 ![Screenshot](marketing/screenshot.png)
